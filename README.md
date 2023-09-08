@@ -1,7 +1,6 @@
-# 💫 About Me:
+# Hi 👋, I'm Sachin Bajaj<br>
 
 
-Hi 👋, I'm Sachin Bajaj<br>
 
 A passionate full-stack developer and aspiring software developer from India<br>
 
